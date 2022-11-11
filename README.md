@@ -3,7 +3,7 @@
 
 ## Taula de continguts
 * [Descripció](#descripció)
-* [Enllaços](#enllaços
+* [Enllaços](#enllaços)
 ## Descripció
 
 L'eina a desenvolupar en aquest projecte serà una aplicació mòbil que calculi la petjada de
